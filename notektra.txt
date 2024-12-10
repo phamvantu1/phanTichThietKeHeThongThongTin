@@ -1,0 +1,80 @@
+câu 1 
+mô tả
+actor là ai
+uc là gì
+liên hệ với uc khác nào ko
+mặc dù mình ko làm , nhưng nên có liên hệ ra .
+uc thì chi tiết từng cái ra 2 cái
+
+câu 1b
+cụ thể , actor là gì, phụ nữa
+điều kiện trả ra
+dkien hậu là gì
+
+luồng chính, luồng ngoại lệ ( nếu có ) nên cho vào 
+
+
+câu 2;
+xác định là có cái gì đó phân tích, phương pháp làm là gì, trích xuât danh từ
+liệt kê ra rồi vẽ
+có tên lớp và các thuộc tính cơ bản 
+
+câu 3;
+biểu đồ giao tiếp
+b
+xây dựng biểu đồ lớp theeiest kế của ca sử dụng
+chỉ vẽ những hình gì liên quan đén uc thôi nếu bên trên nó nhiều quá
+
+câu 4
+code là khung thôi 
+có class nào khai thuộc tính , phuongw thức gì, ví dụ có gì
+
+
+câu 5
+chia thành các packet nào cho nó logic
+cố chia thành ít nhấn 2 3 cái cho cụ thể
+ví dụ quản lý 1 cái, bán hành 1 cái
+
+b''
+hiểu được kiesn trucsc và vẽ được
+
+
+diên rải ra đánh giá thêm
+uc đặc tả cho đúng , đủ
+ngoại lệ phải đưa ra 
+khung code thì khung thôi ko cần thuật toán gì cả
+
+file docx phải có tên + msv ở tiểu đề 
+nén lại rồi nộp lên
+
+nói ra đủ dùng thôi , ko cần liệt kê ra hết, dùng trích xuất danh từ
+rút ra được các ứng cử viên ,
+thuộc tính ko cần kiểu dữ liệu 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
