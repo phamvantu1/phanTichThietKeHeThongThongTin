@@ -1,0 +1,21 @@
+khi nào sử dụng funtion khi nào sử dụng prosider
+tại sao ko code function mà lại sử lý prosider
+định nghĩa về đi ai trong net core
+có bao nhiêu loại dependence  , nó là những loại nào
+các dự án em tgia , mô hình quản lý của em là gì ( mvc ), logic thì mrcserivice
+phân biệt static read only và constant
+constant là chung , còn e biết có mấy loại static
+biết phưogn thức copy và hàm clone
+override  phân  biệt overload ( khi nào sử dụng )
+em có sử dụng con sing gu rểt . mô tả cách hoạt động cho anh
+giờ anh có thằng a , giờ anh muốn xong thăng a thì đến thằng b thì anh xử lý như nào
+giả sử anh muốn 3 thằng cùng chạy song song , thì anh mới chạy đến thằng D thì anh xử lý như nào
+( cả a b c chạy xong thì mới chạy D)
+em làm task hay thread chưa
+câu hỏi của anh vừa hỏi liênquan đến task ( task all thì phải )
+for ( liên quan đến continue và break , phân biệt cho anh )
+so sánh cho anh string rỗng và string.empty() nó khác nhau nhưu nào ( string rỗng thì mình phải khai báo một đối tượng , còn empty thì ko )
+em có câu hỏi gì về bên anh ko , bên anh chủ yếu làm về net framework
+
+
+
